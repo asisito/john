@@ -1,0 +1,25 @@
+body{
+    font-family: "Platypi", serif;
+    background-image: url('https://img.freepik.com/free-vector/cloud-background-vector-cute-desktop-wallpaper_53876-136885.jpg?t=st=1715067945~exp=1715068545~hmac=12766050b95fbcdb4a060b127e6440d19d65817936e1d555a95ed3686eb4514e');;
+}
+#tr{
+    font-size: small;
+}
+#sub{
+    text-align: center;
+}
+.function{
+    overflow: hidden;;
+}
+#image-left{
+    float: left;
+    width: 100%;
+    height: 100%;
+    margin-right:5%;
+}
+#image-right{
+    float: right;
+    width: 100%;
+    height: 100%;
+    margin-right:5%;
+}
